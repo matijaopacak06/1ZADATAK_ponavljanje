@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\bin\Debug\1ZADATAK_ponavljanje.exe.config
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\bin\Debug\1ZADATAK_ponavljanje.exe
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\bin\Debug\1ZADATAK_ponavljanje.pdb
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\obj\Debug\1ZADATAK_ponavljanje.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\obj\Debug\1ZADATAK_ponavljanje.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\obj\Debug\1ZADATAK_ponavljanje.exe
+C:\Users\Ucenik\source\repos\1ZADATAK_ponavljanje\1ZADATAK_ponavljanje\obj\Debug\1ZADATAK_ponavljanje.pdb
